@@ -7,19 +7,19 @@ assignees: ''
 
 ---
 
-Please invite me to the Coders Evoke Github Organisation ! 
+Please invite me to the Robotics Club Github Organisation ! 
 
 <!--more-specification(if any)-->
 
 <!--Some Details-->
 
-- #### Name:
+- ## Name:
 
-- #### Discord Username(if exists):
+- ## Discord Username(if exists):
 
 <!--https://discord.gg/ (link to our discord server)-->
 
 - #### Additional Context:
-<!--From where did you came to know about Coders Evoke -->
+<!--From where did you came to know about Robotics Club -->
 
 <!--What do you like about this community/ why do you want to join-->
